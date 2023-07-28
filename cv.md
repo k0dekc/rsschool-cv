@@ -16,34 +16,23 @@
 * **VS CODE**
 * **ООП**
 ### Code examples
-  =====
-  Solution
+ 
+#### Solution
   =====
   function multiply(a, b){
  return a * b
  }
-  =====
-  Sample Tests
+ #### Sample Tests
   =====
   1
 const assert = require("chai").assert;
-2
-​
-3
 describe("Multiply", () => {
-4
   it("fixed tests", () => {
-5
-    assert.strictEqual(multiply(1,1), 1);
-6
-    assert.strictEqual(multiply(2,1), 2);
-7
-    assert.strictEqual(multiply(2,2), 4);
-8
-    assert.strictEqual(multiply(3,5), 15);   
-9
-  });
-10
+   assert.strictEqual(multiply(1,1), 1);
+   assert.strictEqual(multiply(2,1), 2);
+   assert.strictEqual(multiply(2,2), 4);
+   assert.strictEqual(multiply(3,5), 15);   
+   });   
 });
-====
+
 
