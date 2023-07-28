@@ -22,8 +22,8 @@
    function multiply(a, b){
     return a * b
     }
-    ```
- #### Sample Tests
+   ```
+#### Sample Tests
    ```
    const assert = require("chai").assert;
       describe("Multiply", () => {
