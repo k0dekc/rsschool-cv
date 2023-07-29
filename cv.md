@@ -1,5 +1,5 @@
 # CV
-![MY photo] (./Telegram/photo.png)
+![MY photo](/Telegram/photo.png)
 # Oleg Yankovskiy 
 ## Frontend Developer 
 ### Contacts
