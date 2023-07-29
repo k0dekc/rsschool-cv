@@ -1,4 +1,5 @@
 # CV
+![MY photo](../Telegram/photo.ipg)
 # Oleg Yankovskiy 
 ## Frontend Developer 
 ### Contacts
